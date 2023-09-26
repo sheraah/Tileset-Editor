@@ -1,0 +1,6001 @@
+mapDepth 2
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 64 0 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 64 0 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 64 0 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 64 0 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 64 0 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 768 0 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 768 64 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 768 64 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 768 128 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 768 128 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 64 0 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 448 512 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 832 0 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 576 576 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 64 0 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 896 0 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 896 64 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 576 576 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 64 0 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 960 0 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 960 64 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 960 128 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 960 128 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 960 128 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 64 0 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 64 0 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 64 0 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 64 0 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 64 64 64
+TileType 0
+Collision 0
+TextureName Tileset1
+TextureRect 0 0 32 48
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 64 0 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 64 0 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 64 0 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 448 448 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 448 448 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 448 448 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 448 448 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 64 0 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 64 0 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 64 0 64 64
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 192 320 64 64
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 192 320 64 64
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 192 320 64 64
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 192 320 64 64
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 192 320 64 64
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 192 320 64 64
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 192 320 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 64 0 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 64 0 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 64 0 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 448 192 64 64
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 64 0 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 64 0 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 64 0 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 64 0 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 64 0 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
+TileType 0
+Collision 0
+TextureName Tileset0
+TextureRect 128 192 64 64
+TileType -1
+Collision 0
+TextureName 
+TextureRect 0 0 0 0
