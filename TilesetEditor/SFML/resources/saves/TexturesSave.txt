@@ -1,0 +1,12 @@
+EditorBg resources/textures/EditorBg.png
+WoodButton resources/textures/woodButton.png
+InputBox resources\textures\InputBox.png
+TilesetWindowBg resources\textures\TilesetWindowBg.jpg
+BlackButton resources/textures/BlackButton.png
+Tileset1 C:\Users\david\source\repos\SFML\SFML\resources\textures\torchset.png
+mapBg C:\Users\david\source\repos\SFML\SFML\resources\textures\previewMapBg.png
+SettingsStateBg resources\textures\SettingsStateBg.jpg
+CheckboxChecked resources\textures\CheckboxChecked.png
+SettingsIcon resources\textures\SettingsIcon.png
+WindowIcon resources\textures\WindowIcon.png
+Tileset0 C:\Users\david\source\repos\SFML\SFML\resources\textures\tileset.png
