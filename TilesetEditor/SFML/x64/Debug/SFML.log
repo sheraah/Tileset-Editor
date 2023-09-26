@@ -1,0 +1,16 @@
+﻿  EditorUI.cpp
+C:\Users\david\source\repos\SFML\SFML\source code\EditorUI.cpp(115,89): warning C4267: 'argument': conversion from 'size_t' to 'const T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\david\source\repos\SFML\SFML\source code\EditorUI.cpp(116,90): warning C4267: 'argument': conversion from 'size_t' to 'const T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\david\source\repos\SFML\SFML\source code\EditorUI.cpp(231,42): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\david\source\repos\SFML\SFML\source code\GUI.h(47): warning C4715: 'GUI::get<Combo<int> >': not all control paths return a value
+C:\Users\david\source\repos\SFML\SFML\source code\GUI.h(47): warning C4715: 'GUI::get<TextInput>': not all control paths return a value
+C:\Users\david\source\repos\SFML\SFML\source code\GUI.h(47): warning C4715: 'GUI::get<Button>': not all control paths return a value
+  SFML.vcxproj -> C:\Users\david\source\repos\SFML\x64\Debug\SFML.exe

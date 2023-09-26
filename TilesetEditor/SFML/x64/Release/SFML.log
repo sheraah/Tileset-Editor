@@ -1,0 +1,188 @@
+﻿  AnyResourceManager.cpp
+  Application.cpp
+C:\Users\david\source\repos\SFML\SFML\source code\AnyResourceManager.h(49,34): warning C4101: 'e': unreferenced local variable
+C:\Users\david\source\repos\SFML\SFML\source code\Settings.h(43,19): message : see reference to function template instantiation 'T &AnyResourceManager::get<sf::Vector2u>(const std::string &)' being compiled
+          with
+          [
+              T=sf::Vector2u
+          ]
+C:\Users\david\source\repos\SFML\SFML\source code\Application.cpp(21,26): message : see reference to function template instantiation 'T &Settings::get<sf::Vector2u>(const std::string &)' being compiled
+          with
+          [
+              T=sf::Vector2u
+          ]
+  Button.cpp
+C:\Users\david\source\repos\SFML\SFML\source code\Button.cpp(151,53): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  CheckBox.cpp
+  CustomPointEditor.cpp
+  EditorUI.cpp
+C:\Users\david\source\repos\SFML\SFML\source code\EditorUI.cpp(115,89): warning C4267: 'argument': conversion from 'size_t' to 'const T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\david\source\repos\SFML\SFML\source code\EditorUI.cpp(116,90): warning C4267: 'argument': conversion from 'size_t' to 'const T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\david\source\repos\SFML\SFML\source code\EditorUI.cpp(231,42): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+  FileDialog.cpp
+  FontManager.cpp
+  GUI.cpp
+  InputHandler.cpp
+  LayeredData.cpp
+  Line.cpp
+  main.cpp
+  ResizableSprite.cpp
+  Settings.cpp
+C:\Users\david\source\repos\SFML\SFML\source code\Settings.h(80,33): warning C4101: 'e': unreferenced local variable
+C:\Users\david\source\repos\SFML\SFML\source code\Settings.cpp(8,15): message : see reference to function template instantiation 'void Settings::saveToFile<sf::Vector2u,sf::Vector2f,float,bool,bool,bool,bool,sf::Vector2i,int>(std::ofstream &)' being compiled
+C:\Users\david\source\repos\SFML\SFML\source code\AnyResourceManager.h(49,34): warning C4101: 'e': unreferenced local variable
+C:\Users\david\source\repos\SFML\SFML\source code\Settings.h(43,19): message : see reference to function template instantiation 'T &AnyResourceManager::get<sf::Vector2u>(const std::string &)' being compiled
+          with
+          [
+              T=sf::Vector2u
+          ]
+C:\Users\david\source\repos\SFML\SFML\source code\Settings.h(89,24): message : see reference to function template instantiation 'T &Settings::get<sf::Vector2u>(const std::string &)' being compiled
+          with
+          [
+              T=sf::Vector2u
+          ]
+C:\Users\david\source\repos\SFML\SFML\source code\Settings.h(78,18): message : see reference to function template instantiation 'void Settings::saveStr<sf::Vector2u>(const std::string &,std::ofstream &)' being compiled
+C:\Users\david\source\repos\SFML\SFML\source code\Settings.cpp(8,15): message : see reference to function template instantiation 'void Settings::saveToFile<sf::Vector2u,sf::Vector2f,float,bool,bool,bool,bool,sf::Vector2i,int>(std::ofstream &)' being compiled
+  SettingsState.cpp
+C:\Users\david\source\repos\SFML\SFML\source code\AnyResourceManager.h(49,34): warning C4101: 'e': unreferenced local variable
+C:\Users\david\source\repos\SFML\SFML\source code\Settings.h(43,19): message : see reference to function template instantiation 'T &AnyResourceManager::get<sf::Vector2u>(const std::string &)' being compiled
+          with
+          [
+              T=sf::Vector2u
+          ]
+C:\Users\david\source\repos\SFML\SFML\source code\Settings.h(49,15): message : see reference to function template instantiation 'T &Settings::get<sf::Vector2u>(const std::string &)' being compiled
+          with
+          [
+              T=sf::Vector2u
+          ]
+C:\Users\david\source\repos\SFML\SFML\source code\SettingsState.cpp(257,13): message : see reference to function template instantiation 'void Settings::set<sf::Vector2u>(const std::string &,const T &)' being compiled
+          with
+          [
+              T=sf::Vector2u
+          ]
+  State.cpp
+  StateMachine.cpp
+  TextInput.cpp
+  TextureManager.cpp
+  Tile.cpp
+  Tilemap.cpp
+C:\Users\david\source\repos\SFML\SFML\source code\Tilemap.cpp(485,82): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\david\source\repos\SFML\SFML\source code\Tilemap.cpp(485,63): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\david\source\repos\SFML\SFML\source code\Tilemap.cpp(486,56): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\david\source\repos\SFML\SFML\source code\Tilemap.cpp(486,47): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\david\source\repos\SFML\SFML\source code\Tilemap.cpp(525,69): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\david\source\repos\SFML\SFML\source code\Tilemap.cpp(525,57): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\david\source\repos\SFML\SFML\source code\AnyResourceManager.h(49,34): warning C4101: 'e': unreferenced local variable
+C:\Users\david\source\repos\SFML\SFML\source code\Settings.h(43,19): message : see reference to function template instantiation 'T &AnyResourceManager::get<sf::Vector2f>(const std::string &)' being compiled
+          with
+          [
+              T=sf::Vector2f
+          ]
+C:\Users\david\source\repos\SFML\SFML\source code\Tilemap.cpp(169,19): message : see reference to function template instantiation 'T &Settings::get<sf::Vector2f>(const std::string &)' being compiled
+          with
+          [
+              T=sf::Vector2f
+          ]
+  TilemapEditorState.cpp
+  TilesetEditor.cpp
+C:\Users\david\source\repos\SFML\SFML\source code\TilesetEditor.cpp(759,74): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\david\source\repos\SFML\SFML\source code\TilesetEditor.cpp(759,71): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  UIBase.cpp
+  Utils.cpp
+  ViewMovementComponent.cpp
+  WindowManager.cpp
+LINK : warning C4727: PCH named c:\users\david\source\repos\sfml\sfml\x64\release\sfml.pch with same timestamp found in c:\users\david\source\repos\sfml\sfml\x64\release\checkbox.obj and c:\users\david\source\repos\sfml\sfml\x64\release\button.obj.  Using first PCH.
+LINK : warning C4727: PCH named c:\users\david\source\repos\sfml\sfml\x64\release\sfml.pch with same timestamp found in c:\users\david\source\repos\sfml\sfml\x64\release\gui.obj and c:\users\david\source\repos\sfml\sfml\x64\release\fontmanager.obj.  Using first PCH.
+LINK : warning C4727: PCH named c:\users\david\source\repos\sfml\sfml\x64\release\sfml.pch with same timestamp found in c:\users\david\source\repos\sfml\sfml\x64\release\line.obj and c:\users\david\source\repos\sfml\sfml\x64\release\layereddata.obj.  Using first PCH.
+LINK : warning C4727: PCH named c:\users\david\source\repos\sfml\sfml\x64\release\sfml.pch with same timestamp found in c:\users\david\source\repos\sfml\sfml\x64\release\settings.obj and c:\users\david\source\repos\sfml\sfml\x64\release\resizablesprite.obj.  Using first PCH.
+LINK : warning C4727: PCH named c:\users\david\source\repos\sfml\sfml\x64\release\sfml.pch with same timestamp found in c:\users\david\source\repos\sfml\sfml\x64\release\statemachine.obj and c:\users\david\source\repos\sfml\sfml\x64\release\state.obj.  Using first PCH.
+LINK : warning C4727: PCH named c:\users\david\source\repos\sfml\sfml\x64\release\sfml.pch with same timestamp found in c:\users\david\source\repos\sfml\sfml\x64\release\tile.obj and c:\users\david\source\repos\sfml\sfml\x64\release\texturemanager.obj.  Using first PCH.
+LINK : warning C4727: PCH named c:\users\david\source\repos\sfml\sfml\x64\release\sfml.pch with same timestamp found in c:\users\david\source\repos\sfml\sfml\x64\release\utils.obj and c:\users\david\source\repos\sfml\sfml\x64\release\uibase.obj.  Using first PCH.
+LINK : warning C4727: PCH named c:\users\david\source\repos\sfml\sfml\x64\release\sfml.pch with same timestamp found in c:\users\david\source\repos\sfml\sfml\x64\release\windowmanager.obj and c:\users\david\source\repos\sfml\sfml\x64\release\viewmovementcomponent.obj.  Using first PCH.
+  Generating code
+C:\Users\david\source\repos\SFML\SFML\source code\InputHandler.cpp(113): warning C4715: 'InputHandler::isPressed': not all control paths return a value
+C:\Users\david\source\repos\SFML\SFML\source code\AnyResourceManager.h(53): warning C4715: 'AnyResourceManager::get<int>': not all control paths return a value
+C:\Users\david\source\repos\SFML\SFML\source code\AnyResourceManager.h(53): warning C4715: 'AnyResourceManager::get<sf::Vector2<unsigned int> >': not all control paths return a value
+C:\Users\david\source\repos\SFML\SFML\source code\AnyResourceManager.h(53): warning C4715: 'AnyResourceManager::get<sf::Vector2<int> >': not all control paths return a value
+C:\Users\david\source\repos\SFML\SFML\source code\AnyResourceManager.h(53): warning C4715: 'AnyResourceManager::get<bool>': not all control paths return a value
+C:\Users\david\source\repos\SFML\SFML\source code\AnyResourceManager.h(53): warning C4715: 'AnyResourceManager::get<float>': not all control paths return a value
+C:\Users\david\source\repos\SFML\SFML\source code\AnyResourceManager.h(53): warning C4715: 'AnyResourceManager::get<sf::Vector2<float> >': not all control paths return a value
+C:\Users\david\source\repos\SFML\SFML\source code\GUI.h(47): warning C4715: 'GUI::get<Combo<sf::Vector2<unsigned int> > >': not all control paths return a value
+C:\Users\david\source\repos\SFML\SFML\source code\GUI.h(47): warning C4715: 'GUI::get<Checkbox>': not all control paths return a value
+C:\Users\david\source\repos\SFML\SFML\source code\GUI.h(47): warning C4715: 'GUI::get<TextInput>': not all control paths return a value
+C:\Users\david\source\repos\SFML\SFML\source code\GUI.h(47): warning C4715: 'GUI::get<Combo<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >': not all control paths return a value
+C:\Users\david\source\repos\SFML\SFML\source code\GUI.h(47): warning C4715: 'GUI::get<Button>': not all control paths return a value
+C:\Users\david\source\repos\SFML\SFML\source code\GUI.h(47): warning C4715: 'GUI::get<Combo<int> >': not all control paths return a value
+  694 of 4052 functions (17.1%) were compiled, the rest were copied from previous compilation.
+    171 functions were new in current compilation
+    630 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SFML.vcxproj -> C:\Users\david\source\repos\SFML\x64\Release\SFML.exe
