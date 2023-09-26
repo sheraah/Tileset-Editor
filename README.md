@@ -6,3 +6,5 @@ Other thngs you can do is Edit the imported Tilesets, set its tile width and hei
 If you liked this App come on my Discord where i show my progress on other projects and feel free to contact me if you have some questions or you need help: https://discord.gg/SPyn8KWgVE
 
 ![plot](https://media.discordapp.net/attachments/1156329564629377065/1156330262121156628/image.png?ex=651493fa&is=6513427a&hm=5a54677e23ada4e3774636bd4d167ebca288d844587ca5c801112b9e84b85ce0&=&width=1154&height=671)
+![plot](https://cdn.discordapp.com/attachments/1156329564629377065/1156331599521132574/image.png?ex=65149538&is=651343b8&hm=b1e79c04c21dcb3335f746cd4df5f429e3bd71436f2a6c9be8d4fb25f3b9345b&)
+![plot](https://media.discordapp.net/attachments/1156329564629377065/1156331771806355537/image.png?ex=65149562&is=651343e2&hm=578e58655929b9cb4b637500db04e08ce3249ad78008727c912a4b76bf16d788&=&width=1141&height=671)
