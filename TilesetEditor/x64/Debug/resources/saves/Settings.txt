@@ -1,0 +1,9 @@
+WindowSize 1280 720
+TilemapSize 1500 1000
+CameraSpeed 3000
+SingleTileDrawMode 0
+DrawGrid 0
+DrawCustomPoints 1
+OverrideTile 0
+MapSize 30 25
+BrushSize 1
