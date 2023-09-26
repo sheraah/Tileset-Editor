@@ -5,6 +5,4 @@ Other thngs you can do is Edit the imported Tilesets, set its tile width and hei
 
 If you liked this App come on my Discord to see my other Applications and Games: https://discord.gg/SPyn8KWgVE
 
-<p align="center">
-  <img src="C:\Users\david\source\repos\SFML\SFML\image.png" width="350" title="hover text">
-</p>
+<img src="C:\Users\david\source\repos\SFML\SFML\image.png" alt="Girl in a jacket">
