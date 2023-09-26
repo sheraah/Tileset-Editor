@@ -5,4 +5,4 @@ Other thngs you can do is Edit the imported Tilesets, set its tile width and hei
 
 If you liked this App come on my Discord where i show my progress on other projects and feel free to contact me if you have some questions or you need help: https://discord.gg/SPyn8KWgVE
 
-![plot](C:\Users\david\source\repos\SFML\SFML\image.png)
+![plot](https://media.discordapp.net/attachments/1156329564629377065/1156330262121156628/image.png?ex=651493fa&is=6513427a&hm=5a54677e23ada4e3774636bd4d167ebca288d844587ca5c801112b9e84b85ce0&=&width=1154&height=671)
