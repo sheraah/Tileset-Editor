@@ -4,4 +4,5 @@ You can Also have some custom points on the map if you for example want some coi
 Other thngs you can do is Edit the imported Tilesets, set its tile width and height and collision presets for each tile and more things that you can do. 
 
 If you liked this App come on my Discord where i show my progress on other projects: https://discord.gg/SPyn8KWgVE
+
 if you have some questions or need help feel free to contact me on Discord
